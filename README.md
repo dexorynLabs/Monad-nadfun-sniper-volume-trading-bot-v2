@@ -48,10 +48,10 @@ Ultra-fast automation for the Monad ecosystem covering sniping, volume engineeri
 - Contract scanner, event watcher, and in-house mempool monitor for telemetry.
 
 ## 📬 Contact
-https://t.me/dexorynlabs
+**DexorynLabs**
 
-
-https://github.com/dexorynLabs
+- **GitHub**: [dexorynLabs](https://github.com/dexorynLabs/polymarket-kalshi-arbitrage-trading-bot-v1)
+- **Telegram**: [@dexoryn_12](https://t.me/dexorynlabs)
 
 ## 📄 License
 [License](https://github.com/dexorynLabs/Monad-nadfun-sniper-volume-trading-bot-v2/blob/main/LICENSE)
