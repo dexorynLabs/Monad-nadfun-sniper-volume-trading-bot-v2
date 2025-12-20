@@ -48,7 +48,7 @@ Ultra-fast automation for the Monad ecosystem covering sniping, volume engineeri
 - Contract scanner, event watcher, and in-house mempool monitor for telemetry.
 
 ## 📬 Contact
-https://t.me/dexoryn_12
+https://t.me/dexorynlabs
 
 
 https://github.com/dexorynLabs
