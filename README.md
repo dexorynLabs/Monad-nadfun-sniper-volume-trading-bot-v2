@@ -50,5 +50,5 @@ Ultra-fast automation for the Monad ecosystem covering sniping, volume engineeri
 ## 📬 Contact
 
 
-- **Telegram**: [@dexoryn_12](https://t.me/apemoonspin)
+- **Telegram**: [@apemoonspin](https://t.me/apemoonspin)
 
